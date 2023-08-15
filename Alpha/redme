@@ -1,0 +1,13 @@
+\***\* JAVASCRIPT \*\***
+SommthScrolling:
+
+1.  loco scroll css https://github.com/locomotivemtl/locomotive-scroll/blob/master/dist/locomotive-scroll.css
+2.  locomotive min JAVASCRIPT https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js
+3.  Code to enables them Work
+
+Gsap:
+
+1. Attach Gsap CDN link => src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" integrity="sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug==" crossorigin="anonymous" referrerpolicy="no-referrer">
+2. firstpageanimate()
+
+   ScrollTrigger:
